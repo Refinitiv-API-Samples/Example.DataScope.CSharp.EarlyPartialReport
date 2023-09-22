@@ -1,0 +1,1 @@
+# Example.DataScope.CSharp.EarlyPartialReport
